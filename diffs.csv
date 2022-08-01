@@ -1,0 +1,27 @@
+1st tool,2nd tool,frequencies method,conservation method,min_diff,diff gap,diff residue,diff frequency
+,clustalo,mafft_parttree_retree-1,unweighted,entropy,,clustalo,mafft_parttree_retree-1,unweighted,entropy,.0001,2249,9146,3540
+,clustalo,mafft_parttree_retree-1,unweighted,entropy,,clustalo,mafft_parttree_retree-1,unweighted,entropy,.0010,2249,9146,3415
+,clustalo,mafft_parttree_retree-1,unweighted,entropy,,clustalo,mafft_parttree_retree-1,unweighted,entropy,.0100,2249,9146,2374
+,clustalo,mafft_parttree_retree-1,unweighted,entropy,,clustalo,mafft_parttree_retree-1,unweighted,entropy,.1000,2249,9146,916
+,clustalo,mafft_parttree_retree-1,unweighted,entropy,,clustalo,mafft_parttree_retree-1,unweighted,entropy,1,2249,9146,351
+,clustalo,mafft_parttree_retree-1,unweighted,entropy,,clustalo,mafft_parttree_retree-1,unweighted,entropy,10,2249,9146,46
+,clustalo,mafft_parttree_retree-1,unweighted,variance,,clustalo,mafft_parttree_retree-1,unweighted,variance,.0001,2256,11185,4072
+,clustalo,mafft_parttree_retree-1,unweighted,variance,,clustalo,mafft_parttree_retree-1,unweighted,variance,.0010,2256,11185,3970
+,clustalo,mafft_parttree_retree-1,unweighted,variance,,clustalo,mafft_parttree_retree-1,unweighted,variance,.0100,2256,11185,2640
+,clustalo,mafft_parttree_retree-1,unweighted,variance,,clustalo,mafft_parttree_retree-1,unweighted,variance,.1000,2256,11185,941
+,clustalo,mafft_parttree_retree-1,unweighted,variance,,clustalo,mafft_parttree_retree-1,unweighted,variance,1,2256,11185,363
+,clustalo,mafft_parttree_retree-1,unweighted,variance,,clustalo,mafft_parttree_retree-1,unweighted,variance,10,2256,11185,45
+,clustalo,mafft_parttree_retree-1,weighted,entropy,,clustalo,mafft_parttree_retree-1,weighted,entropy,.0001,2251,9145,4299
+,clustalo,mafft_parttree_retree-1,weighted,entropy,,clustalo,mafft_parttree_retree-1,weighted,entropy,.0010,2251,9145,4279
+,clustalo,mafft_parttree_retree-1,weighted,entropy,,clustalo,mafft_parttree_retree-1,weighted,entropy,.0100,2251,9145,4171
+,clustalo,mafft_parttree_retree-1,weighted,entropy,,clustalo,mafft_parttree_retree-1,weighted,entropy,.1000,2251,9145,2948
+,clustalo,mafft_parttree_retree-1,weighted,entropy,,clustalo,mafft_parttree_retree-1,weighted,entropy,1,2251,9145,1432
+,clustalo,mafft_parttree_retree-1,weighted,entropy,,clustalo,mafft_parttree_retree-1,weighted,entropy,10,2251,9145,49
+,clustalo,mafft_parttree_retree-1,weighted,variance,,clustalo,mafft_parttree_retree-1,weighted,variance,.0001,2256,11182,4797
+,clustalo,mafft_parttree_retree-1,weighted,variance,,clustalo,mafft_parttree_retree-1,weighted,variance,.0010,2256,11182,4786
+,clustalo,mafft_parttree_retree-1,weighted,variance,,clustalo,mafft_parttree_retree-1,weighted,variance,.0100,2256,11182,4623
+,clustalo,mafft_parttree_retree-1,weighted,variance,,clustalo,mafft_parttree_retree-1,weighted,variance,.1000,2256,11182,3217
+,clustalo,mafft_parttree_retree-1,weighted,variance,,clustalo,mafft_parttree_retree-1,weighted,variance,1,2256,11182,1419
+,clustalo,mafft_parttree_retree-1,weighted,variance,,clustalo,mafft_parttree_retree-1,weighted,variance,10,2256,11182,51
+
+
